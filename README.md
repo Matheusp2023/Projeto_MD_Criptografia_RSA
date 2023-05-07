@@ -65,7 +65,7 @@ descriptografia: numero^d = mensagem mod (p*q)
 * Ver a mensagem dseciptografada, ou não, conforme o item 3
 * Sair do programa
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/91018438/204197425-1a4b0e67-4a5e-4e71-b263-142ad27a81e7.png" alt="animated" />
+  <img src="https://github.com/Matheusp2023/Projeto_MD_Criptografia_RSA/blob/main/Imagem%20do%20Menu.jpg" alt="animated" />
 </p>
 
 ### Arrays para números e letras de acordo com a numeração dada
