@@ -48,7 +48,7 @@ descriptografia: numero^d = mensagem mod (p*q)
 > ```
 > Já pasta da aplicação em seu terminal, digite o seguinte comando:
 > ```
-> 	gcc rsa.c -o main -lm
+> 	gcc rsa.c -o main
 > ```
 > 	Logo depois, basta executar com o seguinte comando:
 > ```
