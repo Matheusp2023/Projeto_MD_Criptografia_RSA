@@ -48,11 +48,11 @@ descriptografia: numero^d = mensagem mod (p*q)
 > ```
 > Já pasta da aplicação em seu terminal, digite o seguinte comando:
 > ```
-> 	gcc RSA_encritpion_Final.c -o exe -lm
+> 	gcc rsa.c -o main -lm
 > ```
 > 	Logo depois, basta executar com o seguinte comando:
 > ```
->         ./exe
+>         ./main
   </p>
 
 
