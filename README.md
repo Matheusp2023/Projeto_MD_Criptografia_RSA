@@ -1,5 +1,5 @@
 # Projeto de Criptografia RSA | Matematica Discreta
-Projeto da disciplina de Matemática Discreta sobre criptografia RSA. 2º semestre(2022.2) do curso de Engenharia da Computação na UFAL: Universidade Federal de Alagoas.
+Projeto da disciplina de Matemática Discreta sobre criptografia RSA. 2º semestre(2022.2) do curso de Engenharia da Computação e Ciência da Computação na UFAL: Universidade Federal de Alagoas.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91018438/204195385-acc6fcd4-05a7-4f25-87d1-cb7d5cc5c852.png" alt="animated" />
 </p>
