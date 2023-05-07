@@ -60,9 +60,9 @@ descriptografia: numero^d = mensagem mod (p*q)
 <p> Ao inicializar o programa, você terá direito de escolha de 5 opções:
   
 * Criar chaves públicas e armazená-las em um arquivo .txt
-* Criptografar uma frase de até 100000 caracteres digitada pelo usuário e gerar um arquivo criptado em .txt
+* Criptografar uma frase de até 1000 caracteres digitada pelo usuário e gerar um arquivo criptado em .txt
 * Descriptografar o arquivo com a inserção de chaves públicas a critério do usuário
-* Ver a mensagem dseciptografada, ou não, conforme o item 3
+* Ver a mensagem desciptografada, ou não, conforme o item 3
 * Sair do programa
   <p align="center">
   <img src="https://github.com/Matheusp2023/Projeto_MD_Criptografia_RSA/blob/main/Imagem%20do%20Menu.jpg" alt="animated" />
